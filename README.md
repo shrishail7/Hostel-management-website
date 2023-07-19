@@ -1,4 +1,4 @@
-# Hostel Management Application
+# Hostel Management Application  [demo](https://rb.gy/qhfqm)
 
 The Hostel Management Website is a web application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It is designed to manage a hostel's operations, such as adding new students and updating daily attendance. The website provides an admin interface for managing hostel-related tasks, while users (outsiders) can view the information.
 
